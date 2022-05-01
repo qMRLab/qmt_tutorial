@@ -1,4 +1,4 @@
-# qmt_tutorial
+#  qMTLab qMT Tutorial Conent for the ISMMR 2022 MIT session
 
 [ISMRM 2022 slides](https://docs.google.com/presentation/d/1JGcdQ3C7V7mu3L8lXyqDceMxxElNIzgAl2bLX17a3o0/edit?usp=sharing)
 
