@@ -6,6 +6,6 @@
 
 [Step-by-step tutorial: Google Doc](https://docs.google.com/document/d/1v6ROgjLD48IIEzR-yw4w04PYs29V1y8sm6vmJtigDFs/edit?usp=sharing)
 
-[Step-by-step tutorial: Video](https://www.youtube.com/channel/UCCuMZye0AuGytw-Mv_4ZzfA): To be uploaded soon.
+[qMT tutorial using qMRLab: Video](https://www.youtube.com/channel/UCCuMZye0AuGytw-Mv_4ZzfA): To be uploaded soon.
 
 [qMT Theory & Interactive Tutorial](https://qmrlab.org/blog.html): To be released soon.
